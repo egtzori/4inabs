@@ -8,4 +8,5 @@ To build it you will need nasm and qemu for x86. On ubuntu do `sudo apt-get inst
 
 to buid run: `make`
 to boot: `make boot`
+
 Play with keys 1..7
